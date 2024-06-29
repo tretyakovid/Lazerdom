@@ -1,4 +1,4 @@
 # Lazerdom
 Public Site
 
----> lazerdom.ru <---
+---> <a href="https://lazerdom.ru/">lazerdom.ru</a> <---
